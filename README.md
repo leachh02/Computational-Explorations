@@ -1,10 +1,16 @@
 # Computational-Explorations
 
-Course Outline:
+## Course Outline:
 MATLAB Basics
+
 Image Processing
+
 Sound Processing
+
 Random Walks
+
 Cellular Automata
+
 Functions
+
 Debugging
