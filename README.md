@@ -16,7 +16,6 @@ Functions
 Debugging
 
 ## Code:
-
 DoubleCorkscrew_Animated.mlx - A script plotting a double corkscrew.
 
 EarfquakeMelody.mlx - Applying sound processing ideas, and manipulating sampling rates to create a simple tune.
